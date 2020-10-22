@@ -1,0 +1,8 @@
+#element-to-print {
+    width: 64px;
+    height: 64px;
+}
+
+#element-to-print > img {
+    max-height: 100%;
+}
